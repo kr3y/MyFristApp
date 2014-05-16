@@ -18,6 +18,7 @@ public class MyFristApp {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("ทีปพล ธรรมทอง");
+        System.out.println("ข้าว รองทรง");
         System.out.println("คอมพิวเตอร์เคลื่อนที่");
         System.out.println("มหาวิทยาลัยพะเยา");
     }
